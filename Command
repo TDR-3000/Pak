@@ -1,21 +1,31 @@
-# Pak
-<h1 align="center"> Hello Word 😃 </h1>
+#Pak
+<h1 align="center"> Hello Word :) </h1>
 <p align="center">
+•●•
+</p>
 
-### Pak Without Login Number Cloning
+<p align="center">
+<img src="https://giffiles.alphacoders.com/120/120248.gif">
+</p>
+<p align="center">
+<i> <b> FUCK 🖕 LOL ! </b> </i>
+</p
 
-pkg update
-pkg upgrade
-pkg install python
-pip2 install requests
+#
+###Pak Without Login Number Cloning
+
+apt upgrade
+pkg install python -y
+pkg install python2 -y
+pip install requests
 pip install mechanize
-pip2 install bs4
-pkg install git
-rm -rf Random-Old
-git clone https://github.com/YOUNIS-JOHN/Random-Old
-cd Random-Old
-python Johnpro.py
-##### Contact Me For More Commands
+pip install lolcat
+pip install bs4
+pkg install git -y
+git clone https://github.com/YOUNIS-JOHN/Pak
+cd Pak
+python2 Withoutlogin.py
+##### contact Me For More Commands
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/hellin.786)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+923404708884?text=pleasehelpme+bang) <br><br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YOUNIS-JOHN) <a href="https://github.com/YOUNIS-JOHN">My github</a>  
